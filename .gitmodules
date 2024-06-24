@@ -1,0 +1,6 @@
+[submodule "api"]
+	path = api
+	url = git@github.com:romulo-iorio/cosmobots-test-blog-api.git
+[submodule "vue"]
+	path = vue
+	url = git@github.com:romulo-iorio/cosmobots-test-blog-vue.git
