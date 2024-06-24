@@ -3,7 +3,7 @@
 1. Clone the project with recursive flag to clone the submodules
 
 ```bash
-git clone git@github.com:romulo-iorio/cosmobots-test-blog.git --recursive-submodules
+git clone --recursive git@github.com:romulo-iorio/cosmobots-test-blog.git
 ```
 
 2. Go to the project directory
